@@ -2099,4 +2099,6 @@ keypress("P", x, bpm)
 
 keypress("D", x, bpm)
 
-keypress("j", x, bpm
+keypress("j", x, bpm)
+
+finishedSong()
