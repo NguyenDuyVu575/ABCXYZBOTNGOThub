@@ -5,8 +5,8 @@
 -- Sustain Pedal: OFF --
 -- Midi Spoofer: OFF --
 
-bpm = 111
+bpm = 72
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/TALENTLESS/main/loader_main.lua", true))()
 
-loadstring(game:HttpGet("https://gist.githubusercontent.com/talentless-custom-songs/5457380153c80ce59f9db9d03a815006/raw/custom_song.lua", true))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/talentless-custom-songs/3e0a467c8bd6b2161fa96428ef0d53d0/raw/custom_song.lua", true))()
